@@ -72,3 +72,8 @@ Dans cette section sont détaillés les technologies utilisées dans le projet.
 .. Bibliographie
 .. _Ply: https://pypi.python.org/pypi/ply
 .. _Parrot: http://parrot.org/
+
+
+.. image:: https://badges.gitter.im/S-Amiral/Compiler.svg
+   :alt: Join the chat at https://gitter.im/S-Amiral/Compiler
+   :target: https://gitter.im/S-Amiral/Compiler?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
